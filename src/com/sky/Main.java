@@ -1,25 +1,19 @@
 package com.sky;
 
 import com.sky.array.Array;
+import com.sky.stack.ArrayStack;
 
 public class Main {
 
     public static void main(String[] args) {
-        Array<Integer> arr = new Array<>();
+        ArrayStack stack = new ArrayStack();
 
-        for (int i = 0; i < arr.getCapacity(); i++) {
-            arr.addLast(i);
+        for (int i = 0; i < 5 ; i++) {
+            stack.push(i);
+            System.out.println(stack);
         }
 
-        System.out.println(arr);
-
-        arr.set(1, 10000);
-        System.out.println(arr);
-
-        arr.remove(1);
-        System.out.println(arr);
-
-        arr.removeElement(15);
-        System.out.println(arr);
+        stack.pop();
+        System.out.println(stack);
     }
 }
