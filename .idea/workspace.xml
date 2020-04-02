@@ -2,122 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/CommonUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/InsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/SelectSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/Heap/MaxHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/array/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/LinkedListQueue$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/LinkedListQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/LinkedListStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/leetcode/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/leetcode/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/leetcode/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/linkedlist/leetcode/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/map/BSTMap$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/map/BSTMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/map/LinkedListMap$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/map/LinkedListMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/queue/ArrayQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/queue/PriorityQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/queue/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/recursive/Sum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/set/BSTSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/set/LinkedListSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/stack/leetcode/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/tree/bst/BST$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/tree/bst/TestBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/tree/trie/Trie$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/tree/trie/Trie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/unionfind/UF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/unionfind/UnionFind1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/unionfind/UnionFind2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/unionfind/UnionFind3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/unionfind/UnionFind4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/CommonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/datastructure/tree/trie/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/datastructure/unionfind/UF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/datastructure/unionfind/UnionFind1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/datastructure/unionfind/UnionFind2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/datastructure/unionfind/UnionFind3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/datastructure/unionfind/UnionFind4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/META-INF/DataStructure.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/META-INF/DataStructure.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/Heap/MaxHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/array/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/LinkedListQueue$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/LinkedListQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/LinkedListStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/leetcode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/leetcode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/leetcode/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/linkedlist/leetcode/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/map/BSTMap$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/map/BSTMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/map/LinkedListMap$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/map/LinkedListMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/map/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/map/Map.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/queue/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/queue/LoopQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/queue/LoopQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/queue/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/queue/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/recursive/Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/set/BSTSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/set/LinkedListSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/set/Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/set/Set.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/set/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/set/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/stack/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/stack/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/stack/leetcode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/tree/bst/BST$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/tree/bst/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/datastructure/tree/bst/BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/tree/bst/TestBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/Heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/Heap/MaxHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/array/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/array/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/linkedlist/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/linkedlist/LinkedListQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/linkedlist/LinkedListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/linkedlist/LinkedListStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/linkedlist/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/linkedlist/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/linkedlist/leetcode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/linkedlist/leetcode/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/linkedlist/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/linkedlist/leetcode/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/linkedlist/leetcode/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/linkedlist/leetcode/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/linkedlist/leetcode/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/linkedlist/leetcode/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/map/BSTMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/map/BSTMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/map/LinkedListMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/map/LinkedListMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/map/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/queue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/queue/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/queue/LoopQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/queue/LoopQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/queue/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/queue/PriorityQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/queue/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/queue/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/queue/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/recursive/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/recursive/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/set/BSTSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/set/BSTSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/set/LinkedListSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/set/LinkedListSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/set/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/set/Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/set/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/set/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/stack/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/stack/ArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/stack/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/stack/leetcode/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/tree/bst/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/tree/bst/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/tree/bst/TestBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/datastructure/tree/bst/TestBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +63,7 @@
       <recent name="C:\Users\My\Desktop\DataStructure\src\com\sky\queue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.sort.BubbleSort" />
       <module name="DataStructure" />
@@ -252,8 +138,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.SelectSort" />
@@ -312,7 +198,8 @@
       <workItem from="1585321718644" duration="14586000" />
       <workItem from="1585483129116" duration="2489000" />
       <workItem from="1585654287724" duration="848000" />
-      <workItem from="1585792261746" duration="5068000" />
+      <workItem from="1585792261746" duration="5155000" />
+      <workItem from="1585798037862" duration="1332000" />
     </task>
     <servers />
   </component>
@@ -328,38 +215,38 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1585483215060" />
-    <state width="1506" height="386" key="GridCell.Tab.0.bottom" timestamp="1585797288014">
+    <state width="1506" height="72" key="GridCell.Tab.0.bottom" timestamp="1585799371828">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="386" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1585797288013" />
-    <state width="1506" height="386" key="GridCell.Tab.0.center" timestamp="1585797288013">
+    <state width="1506" height="72" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1585799371828" />
+    <state width="1506" height="72" key="GridCell.Tab.0.center" timestamp="1585799371828">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="386" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1585797288013" />
-    <state width="1506" height="386" key="GridCell.Tab.0.left" timestamp="1585797288013">
+    <state width="1506" height="72" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1585799371828" />
+    <state width="1506" height="72" key="GridCell.Tab.0.left" timestamp="1585799371828">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="386" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1585797288013" />
-    <state width="1506" height="386" key="GridCell.Tab.0.right" timestamp="1585797288013">
+    <state width="1506" height="72" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1585799371828" />
+    <state width="1506" height="72" key="GridCell.Tab.0.right" timestamp="1585799371828">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="386" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1585797288013" />
-    <state width="1506" height="72" key="GridCell.Tab.1.bottom" timestamp="1585796953296">
+    <state width="1506" height="72" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1585799371828" />
+    <state width="1506" height="72" key="GridCell.Tab.1.bottom" timestamp="1585797420226">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="72" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1585796953296" />
-    <state width="1506" height="72" key="GridCell.Tab.1.center" timestamp="1585796953296">
+    <state width="1506" height="72" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1585797420226" />
+    <state width="1506" height="72" key="GridCell.Tab.1.center" timestamp="1585797420226">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="72" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1585796953296" />
-    <state width="1506" height="72" key="GridCell.Tab.1.left" timestamp="1585796953296">
+    <state width="1506" height="72" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1585797420226" />
+    <state width="1506" height="72" key="GridCell.Tab.1.left" timestamp="1585797420226">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="72" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1585796953296" />
-    <state width="1506" height="72" key="GridCell.Tab.1.right" timestamp="1585796953296">
+    <state width="1506" height="72" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1585797420226" />
+    <state width="1506" height="72" key="GridCell.Tab.1.right" timestamp="1585797420226">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="72" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1585796953296" />
+    <state width="1506" height="72" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1585797420226" />
     <state x="179" y="121" key="new project wizard" timestamp="1585226603479">
       <screen x="0" y="0" width="1549" height="831" />
     </state>

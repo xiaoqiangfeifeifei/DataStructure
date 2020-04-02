@@ -1,6 +1,11 @@
 package com.sky.algorithm.sort;
 
+
+
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Stack;
 
 /**
  * @ClassName: QuickGrant
@@ -11,10 +16,41 @@ import java.util.Arrays;
 public class QuickSort {
     public static void main(String[] args) {
         int[] arr = new int[]{9, 8, 1, 4, 2, 3, 5, 6, 7, 13, 12, 14, 11, 15, 16, 17, 19, 18, 10};
-        sort(arr, 0, arr.length - 1);
+        sortByIterate(arr, 0, arr.length - 1);
         System.out.println(Arrays.toString(arr));
     }
 
+
+    private static void sortByIterate(int[] arr, int startIndex, int endIndex) {
+        //用一个集合栈来代替函数的递归栈
+        Stack<Map<String, Integer>> quickSortStack = new Stack<Map<String, Integer>>();
+        Map rootParam = new HashMap();
+        rootParam.put("startIndex", startIndex);
+        rootParam.put("endIndex", endIndex);
+        quickSortStack.push(rootParam);
+
+        while (!quickSortStack.isEmpty()) {
+            // 栈定元素出栈，得到起止下标
+            Map<String, Integer> param = quickSortStack.pop();
+            //得到基准元素的位置
+            int pivotIndex = partitionDoubleCycle(arr, param.get("startIndex"), param.get("endIndex"));
+
+            // 根据起止元素分成两部分，把每一部分的起止下标入栈
+            if (param.get("startIndex") < pivotIndex - 1) {
+                Map leftParam = new HashMap();
+                leftParam.put("startIndex", param.get("startIndex"));
+                leftParam.put("endIndex", pivotIndex - 1);
+                quickSortStack.push(leftParam);
+            }
+
+            if (pivotIndex + 1 < param.get("endIndex")) {
+                Map rightParam = new HashMap();
+                rightParam.put("startIndex", pivotIndex + 1);
+                rightParam.put("endIndex", param.get("endIndex"));
+                quickSortStack.push(rightParam);
+            }
+        }
+    }
     private static void sort(int[] arr, int startIndex, int endIndex) {
         if (startIndex >= endIndex) {
             return;
