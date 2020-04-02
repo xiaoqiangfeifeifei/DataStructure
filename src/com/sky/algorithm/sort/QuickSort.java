@@ -1,7 +1,5 @@
 package com.sky.algorithm.sort;
 
-import sun.awt.AWTAccessor;
-
 import java.util.Arrays;
 
 /**
@@ -27,6 +25,7 @@ public class QuickSort {
         sort(arr, pivotIndex + 1, endIndex);
     }
 
+    // 双边指针循环法
     private static int partitionDoubleCycle(int[] arr, int startIndex, int endIndex) {
         int pivot = arr[startIndex];
 
@@ -55,6 +54,7 @@ public class QuickSort {
         return left;
     }
 
+    // 单边指针法
     private static int partitionSingleCycle(int[] arr, int startIndex, int endIndex) {
         int pivot = arr[startIndex];
 
