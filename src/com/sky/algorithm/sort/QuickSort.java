@@ -29,7 +29,6 @@ public class QuickSort {
         rootParam.put("endIndex", endIndex);
         quickSortStack.push(rootParam);
 
-
         while (!quickSortStack.isEmpty()) {
             // 栈定元素出栈，得到起止下标
             Map<String, Integer> param = quickSortStack.pop();
