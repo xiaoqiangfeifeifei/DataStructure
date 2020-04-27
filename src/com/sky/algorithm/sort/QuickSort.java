@@ -16,7 +16,7 @@ import java.util.Stack;
 public class QuickSort {
     public static void main(String[] args) {
         int[] arr = new int[]{9, 8, 1, 4, 2, 3, 5, 6, 7, 13, 12, 14, 11, 15, 16, 17, 19, 18, 10};
-        sortByIterate(arr, 0, arr.length - 1);
+        sort(arr, 0, arr.length - 1);
         System.out.println(Arrays.toString(arr));
     }
 
