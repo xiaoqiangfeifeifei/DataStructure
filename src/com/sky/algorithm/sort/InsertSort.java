@@ -14,7 +14,7 @@ public class InsertSort {
     public static void main(String[] args) {
 //        int[] arr = new int[]{2,1,3,8,7,4};
         int[] arr = new int[]{9, 8, 1, 4, 2, 3, 5, 6, 7, 13, 12, 14, 11, 15, 16, 17, 19, 18, 10};
-        doSort(arr);
+        doSort1(arr);
         System.out.println(Arrays.toString(arr));
     }
 
@@ -74,5 +74,20 @@ public class InsertSort {
         }
 
         return left;
+    }
+
+
+    private static int[] doSort1(int[] arr) {
+        if (arr == null) {
+            return arr;
+        }
+
+        for (int i = 1; i < arr.length; i++) {// 从第二位开始， 依次往后
+            for (int j = i - 1; j >= 0 && arr[j] > arr[j + 1]; j--) {// j起始是被比较数的前一位， 然后与被比较数比较
+                swap(arr, j, j + 1);
+            }
+        }
+
+        return arr;
     }
 }

@@ -25,6 +25,13 @@ public class MergeSort {
 
     }
 
+    /**
+     * 将数组分成两半， 分别递归排序， 最终把得到的结果合并
+     * @param nums
+     * @param low
+     * @param high
+     * @param temp
+     */
     private static void mergeSort(int[] nums, int low, int high, int[] temp) {
         if (low >= high) {
             return;
@@ -63,6 +70,28 @@ public class MergeSort {
         t = 0;
         while (low <= high) {//将temp中排序好的元素拷贝到nums
             nums[low++] = temp[t++];
+        }
+    }
+
+    private static void merge(int[] arr, int l, int mid, int r) {
+        int[] help = new int[r - l + 1];
+        int p1 = l;
+        int p2 = mid + 1;
+
+        int i = 0;
+        while (p1 <= mid && p2 <= r) {
+            help[i++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++];
+        }
+
+        while (p1 <= mid) {
+            help[i++] = arr[p1++];
+        }
+        while (p2 <= r) {
+            help[i++] = arr[p2++];
+        }
+
+        for (int j = 0; j < help.length; j++) {
+            arr[l + j] = help[j];
         }
     }
 }
