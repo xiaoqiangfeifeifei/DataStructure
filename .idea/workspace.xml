@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/partition/Partition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/middle/MaxGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/ArrayStackQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/CatDogQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/FindNumInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/GetMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/PrintMatrixInSpiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/StackQueueConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/ZigZagPrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/PrintLinkCommonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/RevertList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/CommonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/CommonUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/CommonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/CommonUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/sort/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/CountSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/CountSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/新建文件夹/初级班代码ppt/基础班1 , 2节代码/basic_class_01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -62,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sky.algorithm.wonderful" />
       <recent name="com.sky.unionfind" />
       <recent name="com.sky.linkedlist.leetcode" />
       <recent name="com.sky.linked_list" />
@@ -70,13 +69,13 @@
       <recent name="C:\Users\My\Desktop\DataStructure\src\com\sky\queue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.sort.BubbleSort" />
+  <component name="RunManager" selected="Application.FindNumInSortedMatrix">
+    <configuration name="FindNumInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.FindNumInSortedMatrix" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.sort.*" />
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.sort.CountSort" />
+    <configuration name="RevertList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.linkedlist.RevertList" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.sort.*" />
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.sort.HeapSort" />
+    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.RotateMatrix" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.sort.*" />
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.partition.Partition" />
+    <configuration name="ZigZagPrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.ZigZagPrintMatrix" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.partition.*" />
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.sort.QuickSort" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.test" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.sort.*" />
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,19 +136,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.Partition" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.HeapSort" />
-      <item itemvalue="Application.CountSort" />
+      <item itemvalue="Application.RotateMatrix" />
+      <item itemvalue="Application.RevertList" />
+      <item itemvalue="Application.ZigZagPrintMatrix" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.FindNumInSortedMatrix" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountSort" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.Partition" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.FindNumInSortedMatrix" />
+        <item itemvalue="Application.ZigZagPrintMatrix" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.RevertList" />
+        <item itemvalue="Application.RotateMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +212,9 @@
       <workItem from="1587988587051" duration="2238000" />
       <workItem from="1588077644208" duration="5396000" />
       <workItem from="1588254163143" duration="6525000" />
-      <workItem from="1588340332234" duration="21015000" />
+      <workItem from="1588340332234" duration="31551000" />
+      <workItem from="1588570604996" duration="14787000" />
+      <workItem from="1588663361308" duration="1291000" />
     </task>
     <servers />
   </component>
@@ -221,10 +222,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1581690784866">
+    <state x="580" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1588525487090">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="580" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1581690784866" />
+    <state x="580" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1588525487090" />
     <state x="573" y="306" width="403" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588438742047">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -237,38 +238,38 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1588513128061" />
-    <state width="1506" height="169" key="GridCell.Tab.0.bottom" timestamp="1588513808711">
+    <state width="1506" height="137" key="GridCell.Tab.0.bottom" timestamp="1588603823579">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="169" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588513808711" />
-    <state width="1506" height="169" key="GridCell.Tab.0.center" timestamp="1588513808711">
+    <state width="1506" height="137" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588603823579" />
+    <state width="1506" height="137" key="GridCell.Tab.0.center" timestamp="1588603823578">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="169" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1588513808711" />
-    <state width="1506" height="169" key="GridCell.Tab.0.left" timestamp="1588513808711">
+    <state width="1506" height="137" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1588603823578" />
+    <state width="1506" height="137" key="GridCell.Tab.0.left" timestamp="1588603823578">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="169" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1588513808711" />
-    <state width="1506" height="169" key="GridCell.Tab.0.right" timestamp="1588513808711">
+    <state width="1506" height="137" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1588603823578" />
+    <state width="1506" height="137" key="GridCell.Tab.0.right" timestamp="1588603823578">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="169" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1588513808711" />
-    <state width="1506" height="69" key="GridCell.Tab.1.bottom" timestamp="1588513795506">
+    <state width="1506" height="137" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1588603823578" />
+    <state width="1506" height="137" key="GridCell.Tab.1.bottom" timestamp="1588603823579">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="69" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588513795506" />
-    <state width="1506" height="69" key="GridCell.Tab.1.center" timestamp="1588513795506">
+    <state width="1506" height="137" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588603823579" />
+    <state width="1506" height="137" key="GridCell.Tab.1.center" timestamp="1588603823579">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="69" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1588513795506" />
-    <state width="1506" height="69" key="GridCell.Tab.1.left" timestamp="1588513795506">
+    <state width="1506" height="137" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1588603823579" />
+    <state width="1506" height="137" key="GridCell.Tab.1.left" timestamp="1588603823579">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="69" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1588513795506" />
-    <state width="1506" height="69" key="GridCell.Tab.1.right" timestamp="1588513795506">
+    <state width="1506" height="137" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1588603823579" />
+    <state width="1506" height="137" key="GridCell.Tab.1.right" timestamp="1588603823579">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="69" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1588513795506" />
+    <state width="1506" height="137" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1588603823579" />
     <state x="286" y="0" key="SettingsEditor" timestamp="1585879920591">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -289,10 +290,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="432" y="189" key="run.anything.popup/0.0.1549.831@0.0.1549.831" timestamp="1588406924760" />
-    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1588439873989">
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1588593017259">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1588439873989" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1588593017259" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
