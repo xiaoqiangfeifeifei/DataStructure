@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/middle/MaxGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/ArrayStackQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/CatDogQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/FindNumInSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/GetMinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/PrintMatrixInSpiral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/RotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/StackQueueConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/ZigZagPrintMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/PrintLinkCommonPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/RevertList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_11_IsPalindromeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_13_CopyListWithRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_14_FindFirstIntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_15_FindOneLessValueIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/CountSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/sort/CountSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -66,6 +58,7 @@
       <recent name="com.sky.linked_list" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\learn project\DataStructure\src\com\sky\algorithm\interview\simple\undo" />
       <recent name="C:\Users\My\Desktop\DataStructure\src\com\sky\queue" />
     </key>
   </component>
@@ -214,7 +207,7 @@
       <workItem from="1588254163143" duration="6525000" />
       <workItem from="1588340332234" duration="31551000" />
       <workItem from="1588570604996" duration="14787000" />
-      <workItem from="1588663361308" duration="1291000" />
+      <workItem from="1588663361308" duration="1563000" />
     </task>
     <servers />
   </component>
