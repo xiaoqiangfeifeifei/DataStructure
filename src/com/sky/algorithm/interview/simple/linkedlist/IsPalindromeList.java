@@ -19,8 +19,6 @@ public class IsPalindromeList {
         node.next.next.next.next.next.next = new Node(1);
 
 
-
-
     }
 
     public static class Node {

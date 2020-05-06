@@ -134,17 +134,15 @@ public class Code_12_SmallerEqualBigger {
 	}
 
 	public static void main(String[] args) {
-		Node head1 = new Node(7);
-		head1.next = new Node(9);
-		head1.next.next = new Node(1);
-		head1.next.next.next = new Node(8);
-		head1.next.next.next.next = new Node(5);
-		head1.next.next.next.next.next = new Node(2);
-		head1.next.next.next.next.next.next = new Node(5);
+		Node head1 = new Node(9);
+		head1.next = new Node(0);
+		head1.next.next = new Node(4);
+		head1.next.next.next = new Node(5);
+		head1.next.next.next.next = new Node(1);
 		printLinkedList(head1);
-		// head1 = listPartition1(head1, 4);
-		head1 = listPartition2(head1, 5);
-		printLinkedList(head1);
+		 head1 = listPartition1(head1, 3);
+//		head1 = listPartition2(head1, 5);
+//		printLinkedList(head1);
 
 	}
 
