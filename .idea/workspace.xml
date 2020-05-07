@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/CopyListWithRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/IsPalindromeList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/IsPalindromeList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/IsPalindromeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/IsPalindromeList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/IsPalindromeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,6 +211,7 @@
       <workItem from="1588570604996" duration="14787000" />
       <workItem from="1588663361308" duration="1563000" />
       <workItem from="1588754029861" duration="10219000" />
+      <workItem from="1588858212746" duration="5416000" />
     </task>
     <servers />
   </component>
@@ -239,25 +242,25 @@
     </state>
     <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1588513128061" />
     <state x="688" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588760703272" />
-    <state width="1506" height="294" key="GridCell.Tab.0.bottom" timestamp="1588781403493">
+    <state width="1506" height="379" key="GridCell.Tab.0.bottom" timestamp="1588864413198">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="294" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588781403493" />
+    <state width="1506" height="379" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
     <state width="1877" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
-    <state width="1506" height="294" key="GridCell.Tab.0.center" timestamp="1588781403493">
+    <state width="1506" height="379" key="GridCell.Tab.0.center" timestamp="1588864413198">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="294" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1588781403493" />
+    <state width="1506" height="379" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
     <state width="1877" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
-    <state width="1506" height="294" key="GridCell.Tab.0.left" timestamp="1588781403492">
+    <state width="1506" height="379" key="GridCell.Tab.0.left" timestamp="1588864413198">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="294" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1588781403492" />
+    <state width="1506" height="379" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
     <state width="1877" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545538" />
-    <state width="1506" height="294" key="GridCell.Tab.0.right" timestamp="1588781403493">
+    <state width="1506" height="379" key="GridCell.Tab.0.right" timestamp="1588864413198">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="294" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1588781403493" />
+    <state width="1506" height="379" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
     <state width="1877" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
     <state width="1506" height="294" key="GridCell.Tab.1.bottom" timestamp="1588781403494">
       <screen x="0" y="0" width="1549" height="831" />

@@ -1,6 +1,5 @@
 package com.sky.algorithm.interview.simple.linkedlist;
 
-import com.sky.algorithm.CommonUtil;
 
 /**
  * 将单向链表按某值划分成左边小、中间相等、右边大的形式
@@ -30,7 +29,7 @@ public class SmallerEqualBiggerList {
         node.next.next.next = new Node(5);
         node.next.next.next.next = new Node(1);
 
-        Node head = listPartition1(node, 3);
+        Node head = listPartition2(node, 3);
         while (head != null) {
             System.out.print(head.value);
             head = head.next;
@@ -72,6 +71,57 @@ public class SmallerEqualBiggerList {
         }
         sortedNodes[j - 1].next = null;//防止sort中node本身next就包含引用，需要将引用置为空
         return sortedNodes[0];
+    }
+
+    private static Node listPartition2(Node head, int num) {
+        Node sH = null;
+        Node sT = null;
+        Node eH = null;
+        Node eT = null;
+        Node bH = null;
+        Node bT = null;
+
+        Node next = null;
+        while (head != null) {
+            next = head.next;
+            head.next = null;
+            if (head.value < num) {
+                if (sH == null) {
+                    sH = head;
+                    sT = head;
+                } else {
+                    sT.next = head;
+                    sT = head;
+                }
+            } else if (head.value == num) {
+                if (eH == null) {
+                    eH = head;
+                    eT = head;
+                } else {
+                    eT.next = head;
+                    eT = head;
+                }
+            } else {
+                if (bH == null) {
+                    bH = head;
+                    bT = head;
+                } else {
+                    bT.next = head;
+                    bT = head;
+                }
+            }
+            head = next;
+        }
+
+        //将小 中 大三条链表链接
+        if (sT != null) {
+            sT.next = eH;
+            eT = eT == null ? sT : eT;
+        }
+        if (eT != null) {
+            eT.next = bH;
+        }
+        return sH != null ? sH : eH != null ? eH : bH;
     }
 
     private static Node[] partition(Node[] nodes, int num) {
