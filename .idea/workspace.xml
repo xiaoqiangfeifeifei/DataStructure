@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/CopyListWithRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/SmallerEqualBiggerList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_12_SmallerEqualBigger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/CopyListWithRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/CopyListWithRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_13_CopyListWithRandom.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/NewHuJin/cls" />
+    <property name="last_opened_file_path" value="E:/NewHuJin/cif" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -64,13 +61,26 @@
       <recent name="C:\Users\My\Desktop\DataStructure\src\com\sky\queue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SmallerEqualBiggerList">
+  <component name="RunManager" selected="Application.CopyListWithRandom">
     <configuration name="Code_12_SmallerEqualBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.undo.Code_12_SmallerEqualBigger" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sky.algorithm.interview.simple.undo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyListWithRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.linkedlist.CopyListWithRandom" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,33 +127,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZigZagPrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.ZigZagPrintMatrix" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ZigZagPrintMatrix" />
       <item itemvalue="Application.FindNumInSortedMatrix" />
       <item itemvalue="Application.IsPalindromeList" />
       <item itemvalue="Application.Code_12_SmallerEqualBigger" />
       <item itemvalue="Application.SmallerEqualBiggerList" />
+      <item itemvalue="Application.CopyListWithRandom" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyListWithRandom" />
         <item itemvalue="Application.SmallerEqualBiggerList" />
         <item itemvalue="Application.Code_12_SmallerEqualBigger" />
         <item itemvalue="Application.IsPalindromeList" />
         <item itemvalue="Application.FindNumInSortedMatrix" />
-        <item itemvalue="Application.ZigZagPrintMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -237,51 +234,51 @@
     </state>
     <state width="444" height="373" key="DebuggerActiveHint/0.0.1549.831@0.0.1549.831" timestamp="1588780766526" />
     <state width="411" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1588760340859" />
-    <state x="688" y="218" key="FileChooserDialogImpl" timestamp="1588760703272">
+    <state x="688" y="218" key="FileChooserDialogImpl" timestamp="1588928083605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1588513128061" />
-    <state x="688" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588760703272" />
-    <state width="1506" height="379" key="GridCell.Tab.0.bottom" timestamp="1588864413198">
-      <screen x="0" y="0" width="1549" height="831" />
+    <state x="688" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588928083605" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom" timestamp="1588933503738">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1506" height="379" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
-    <state width="1877" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
-    <state width="1506" height="379" key="GridCell.Tab.0.center" timestamp="1588864413198">
-      <screen x="0" y="0" width="1549" height="831" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588933503738" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center" timestamp="1588933503738">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1506" height="379" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
-    <state width="1877" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
-    <state width="1506" height="379" key="GridCell.Tab.0.left" timestamp="1588864413198">
-      <screen x="0" y="0" width="1549" height="831" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588933503738" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left" timestamp="1588933503738">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1506" height="379" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
-    <state width="1877" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545538" />
-    <state width="1506" height="379" key="GridCell.Tab.0.right" timestamp="1588864413198">
-      <screen x="0" y="0" width="1549" height="831" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588933503738" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right" timestamp="1588933503738">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1506" height="379" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
-    <state width="1877" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
-    <state width="1506" height="294" key="GridCell.Tab.1.bottom" timestamp="1588781403494">
-      <screen x="0" y="0" width="1549" height="831" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588933503738" />
+    <state width="1877" height="210" key="GridCell.Tab.1.bottom" timestamp="1588933466214">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1506" height="294" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588781403494" />
-    <state width="1877" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
-    <state width="1506" height="294" key="GridCell.Tab.1.center" timestamp="1588781403493">
-      <screen x="0" y="0" width="1549" height="831" />
+    <state width="1877" height="210" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588933466214" />
+    <state width="1877" height="210" key="GridCell.Tab.1.center" timestamp="1588933466214">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1506" height="294" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1588781403493" />
-    <state width="1877" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
-    <state width="1506" height="294" key="GridCell.Tab.1.left" timestamp="1588781403493">
-      <screen x="0" y="0" width="1549" height="831" />
+    <state width="1877" height="210" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588933466214" />
+    <state width="1877" height="210" key="GridCell.Tab.1.left" timestamp="1588933466214">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1506" height="294" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1588781403493" />
-    <state width="1877" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
-    <state width="1506" height="294" key="GridCell.Tab.1.right" timestamp="1588781403493">
-      <screen x="0" y="0" width="1549" height="831" />
+    <state width="1877" height="210" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588933466214" />
+    <state width="1877" height="210" key="GridCell.Tab.1.right" timestamp="1588933466214">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1506" height="294" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1588781403493" />
-    <state width="1877" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588763545539" />
+    <state width="1877" height="210" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588933466214" />
     <state x="286" y="0" key="SettingsEditor" timestamp="1585879920591">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
