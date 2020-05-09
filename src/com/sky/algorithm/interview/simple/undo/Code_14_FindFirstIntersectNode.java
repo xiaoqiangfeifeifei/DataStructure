@@ -32,6 +32,16 @@ public class Code_14_FindFirstIntersectNode {
 		return null;
 	}
 
+	public static void main(String[] args) {
+		// 1->2->3->4->5->6->7->null
+		Node head1 = new Node(1);
+		head1.next = new Node(2);
+		head1.next.next = new Node(3);
+		head1.next.next = head1.next;
+
+		Node loopNode = getLoopNode(head1);
+		System.out.println(loopNode);
+	}
 	public static Node getLoopNode(Node head) {
 		if (head == null || head.next == null || head.next.next == null) {
 			return null;
@@ -124,7 +134,7 @@ public class Code_14_FindFirstIntersectNode {
 		}
 	}
 
-	public static void main(String[] args) {
+	public static void main1(String[] args) {
 		// 1->2->3->4->5->6->7->null
 		Node head1 = new Node(1);
 		head1.next = new Node(2);
