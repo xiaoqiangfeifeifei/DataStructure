@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/FindFirstIntersectNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_13_CopyListWithRandom$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_13_CopyListWithRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_14_FindFirstIntersectNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/undo/Code_14_FindFirstIntersectNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_14_FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_14_FindFirstIntersectNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/FindFirstIntersectNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,10 +329,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DataStructure$Code_14_FindFirstIntersectNode.ic" NAME="Code_14_FindFirstIntersectNode Coverage Results" MODIFIED="1588992269991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.sky.algorithm.interview.simple.undo.*</FILTER>
-    </SUITE>
   </component>
 </project>
