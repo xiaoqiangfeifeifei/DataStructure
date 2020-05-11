@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/PreInPosTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_01_PreInPosTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_02_PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_03_SuccessorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_04_SerializeAndReconstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_05_PaperFolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_06_IsBalancedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_07_IsBSTAndCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo/Code_08_CompleteTreeNodeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/linkedlist/FindFirstIntersectNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/gary_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/undo" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -62,20 +70,7 @@
       <recent name="C:\Users\My\Desktop\DataStructure\src\com\sky\queue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindFirstIntersectNode">
-    <configuration name="Code_12_SmallerEqualBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.undo.Code_12_SmallerEqualBigger" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.interview.simple.undo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PreInPosTraversal">
     <configuration name="Code_14_FindFirstIntersectNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.undo.Code_14_FindFirstIntersectNode" />
       <module name="DataStructure" />
@@ -115,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PreInPosTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.tree.PreInPosTraversal" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SmallerEqualBiggerList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.linkedlist.SmallerEqualBiggerList" />
       <module name="DataStructure" />
@@ -129,19 +137,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Code_12_SmallerEqualBigger" />
       <item itemvalue="Application.SmallerEqualBiggerList" />
       <item itemvalue="Application.CopyListWithRandom" />
       <item itemvalue="Application.Code_14_FindFirstIntersectNode" />
       <item itemvalue="Application.FindFirstIntersectNode" />
+      <item itemvalue="Application.PreInPosTraversal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PreInPosTraversal" />
         <item itemvalue="Application.FindFirstIntersectNode" />
         <item itemvalue="Application.Code_14_FindFirstIntersectNode" />
         <item itemvalue="Application.CopyListWithRandom" />
         <item itemvalue="Application.SmallerEqualBiggerList" />
-        <item itemvalue="Application.Code_12_SmallerEqualBigger" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +219,7 @@
       <workItem from="1588754029861" duration="10219000" />
       <workItem from="1588858212746" duration="5416000" />
       <workItem from="1588986686390" duration="8259000" />
+      <workItem from="1589207666517" duration="1442000" />
     </task>
     <servers />
   </component>
@@ -241,45 +250,45 @@
     </state>
     <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1588513128061" />
     <state x="688" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588987772127" />
-    <state width="1877" height="209" key="GridCell.Tab.0.bottom" timestamp="1588995587479">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1506" height="181" key="GridCell.Tab.0.bottom" timestamp="1589208739157">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="379" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
+    <state width="1506" height="181" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1589208739157" />
     <state width="1877" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588995587479" />
-    <state width="1877" height="209" key="GridCell.Tab.0.center" timestamp="1588995587479">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1506" height="181" key="GridCell.Tab.0.center" timestamp="1589208739157">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="379" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
+    <state width="1506" height="181" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1589208739157" />
     <state width="1877" height="209" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588995587479" />
-    <state width="1877" height="209" key="GridCell.Tab.0.left" timestamp="1588995587479">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1506" height="181" key="GridCell.Tab.0.left" timestamp="1589208739157">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="379" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
+    <state width="1506" height="181" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1589208739157" />
     <state width="1877" height="209" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588995587479" />
-    <state width="1877" height="209" key="GridCell.Tab.0.right" timestamp="1588995587479">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1506" height="181" key="GridCell.Tab.0.right" timestamp="1589208739157">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="379" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1588864413198" />
+    <state width="1506" height="181" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1589208739157" />
     <state width="1877" height="209" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588995587479" />
-    <state width="1877" height="209" key="GridCell.Tab.1.bottom" timestamp="1588995587731">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1506" height="181" key="GridCell.Tab.1.bottom" timestamp="1589208738962">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="294" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588781403494" />
+    <state width="1506" height="181" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1589208738962" />
     <state width="1877" height="209" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588995587731" />
-    <state width="1877" height="209" key="GridCell.Tab.1.center" timestamp="1588995587731">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1506" height="181" key="GridCell.Tab.1.center" timestamp="1589208738962">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="294" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1588781403493" />
+    <state width="1506" height="181" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1589208738962" />
     <state width="1877" height="209" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588995587731" />
-    <state width="1877" height="209" key="GridCell.Tab.1.left" timestamp="1588995587731">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1506" height="181" key="GridCell.Tab.1.left" timestamp="1589208738962">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="294" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1588781403493" />
+    <state width="1506" height="181" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1589208738962" />
     <state width="1877" height="209" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588995587731" />
-    <state width="1877" height="209" key="GridCell.Tab.1.right" timestamp="1588995587731">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1506" height="181" key="GridCell.Tab.1.right" timestamp="1589208738962">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="294" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1588781403493" />
+    <state width="1506" height="181" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1589208738962" />
     <state width="1877" height="209" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588995587731" />
     <state x="286" y="0" key="SettingsEditor" timestamp="1585879920591">
       <screen x="0" y="0" width="1549" height="831" />
