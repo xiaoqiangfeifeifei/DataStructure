@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/CompleteTreeNodeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/IsBSTAndCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/IsBalanceTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/PreInPosTraversalWithNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/SerializeAndReconstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/SuccessorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/util/PrintBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/tree/PreInPosTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/tree/PreInPosTraversal$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/tree/PreInPosTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/tree/PreInPosTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/PreInPosTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/PreInPosTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaArithmetic/README.md" />
+    <property name="last_opened_file_path" value="F:/学习资料/左神初级算法/初级班代码ppt/基础班3、4节代码/新基础课第3、4节代码/class_04" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -52,12 +62,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sky.algorithm.interview.simple.tree" />
       <recent name="com.sky.algorithm.wonderful" />
       <recent name="com.sky.unionfind" />
       <recent name="com.sky.linkedlist.leetcode" />
       <recent name="com.sky.linked_list" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\learn project\DataStructure\src\com\sky\algorithm\interview\simple\tree" />
+      <recent name="F:\learn project\DataStructure\src\com\sky\algorithm\interview\simple\tree\util" />
       <recent name="F:\learn project\DataStructure\src\com\sky\algorithm\interview\simple\undo" />
       <recent name="C:\Users\My\Desktop\DataStructure\src\com\sky\queue" />
     </key>
@@ -67,9 +80,9 @@
       <command value="ho" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.PreInPosTraversal">
-    <configuration name="Code_14_FindFirstIntersectNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.undo.Code_14_FindFirstIntersectNode" />
+  <component name="RunManager" selected="Application.CompleteTreeNodeNumber">
+    <configuration name="Code_07_IsBSTAndCBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.undo.Code_07_IsBSTAndCBT" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyListWithRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.linkedlist.CopyListWithRandom" />
+    <configuration name="Code_08_CompleteTreeNodeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.undo.Code_08_CompleteTreeNodeNumber" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.undo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,21 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFirstIntersectNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.linkedlist.FindFirstIntersectNode" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PreInPosTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.tree.PreInPosTraversal" />
+    <configuration name="CompleteTreeNodeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.tree.CompleteTreeNodeNumber" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -120,12 +120,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallerEqualBiggerList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.linkedlist.SmallerEqualBiggerList" />
+    <configuration name="IsBSTAndCBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.tree.IsBSTAndCBT" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.algorithm.interview.simple.linkedlist.*" />
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreInPosTraversalWithNormal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.algorithm.interview.simple.tree.PreInPosTraversalWithNormal" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.algorithm.interview.simple.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,19 +147,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SmallerEqualBiggerList" />
-      <item itemvalue="Application.CopyListWithRandom" />
-      <item itemvalue="Application.Code_14_FindFirstIntersectNode" />
-      <item itemvalue="Application.FindFirstIntersectNode" />
-      <item itemvalue="Application.PreInPosTraversal" />
+      <item itemvalue="Application.PreInPosTraversalWithNormal" />
+      <item itemvalue="Application.IsBSTAndCBT" />
+      <item itemvalue="Application.Code_07_IsBSTAndCBT" />
+      <item itemvalue="Application.Code_08_CompleteTreeNodeNumber" />
+      <item itemvalue="Application.CompleteTreeNodeNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PreInPosTraversal" />
-        <item itemvalue="Application.FindFirstIntersectNode" />
-        <item itemvalue="Application.Code_14_FindFirstIntersectNode" />
-        <item itemvalue="Application.CopyListWithRandom" />
-        <item itemvalue="Application.SmallerEqualBiggerList" />
+        <item itemvalue="Application.CompleteTreeNodeNumber" />
+        <item itemvalue="Application.Code_08_CompleteTreeNodeNumber" />
+        <item itemvalue="Application.IsBSTAndCBT" />
+        <item itemvalue="Application.Code_07_IsBSTAndCBT" />
+        <item itemvalue="Application.PreInPosTraversalWithNormal" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +231,12 @@
       <workItem from="1588986686390" duration="8259000" />
       <workItem from="1589207666517" duration="4077000" />
       <workItem from="1591420390235" duration="3496000" />
+      <workItem from="1602338691282" duration="10992000" />
+      <workItem from="1602592932974" duration="636000" />
+      <workItem from="1602996269831" duration="4880000" />
+      <workItem from="1603121699656" duration="267000" />
+      <workItem from="1603122088261" duration="2720000" />
+      <workItem from="1603622945899" duration="1316000" />
     </task>
     <servers />
   </component>
@@ -225,10 +244,62 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="174" key="FileChooserDialogImpl" timestamp="1602338821286">
+    <state x="367" y="78" key="#Auto_Import" timestamp="1602428255247">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1602338821286" />
+    <state x="367" y="78" key="#Auto_Import/0.0.1549.831@0.0.1549.831" timestamp="1602428255247" />
+    <state x="580" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1603122197886">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="580" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1603122197886" />
+    <state x="557" y="306" width="434" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602345113908">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="557" y="306" width="434" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1549.831@0.0.1549.831" timestamp="1602345113908" />
+    <state x="555" y="174" key="FileChooserDialogImpl" timestamp="1603029971002">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1603029971002" />
+    <state width="1506" height="67" key="GridCell.Tab.0.bottom" timestamp="1603625076438">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="67" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1603625076438" />
+    <state width="1506" height="67" key="GridCell.Tab.0.center" timestamp="1603625076437">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="67" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1603625076437" />
+    <state width="1506" height="67" key="GridCell.Tab.0.left" timestamp="1603625076437">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="67" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1603625076437" />
+    <state width="1506" height="67" key="GridCell.Tab.0.right" timestamp="1603625076438">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="67" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1603625076438" />
+    <state width="1506" height="162" key="GridCell.Tab.1.bottom" timestamp="1602429382624">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="162" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1602429382624" />
+    <state width="1506" height="162" key="GridCell.Tab.1.center" timestamp="1602429382624">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="162" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1602429382624" />
+    <state width="1506" height="162" key="GridCell.Tab.1.left" timestamp="1602429382624">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="162" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1602429382624" />
+    <state width="1506" height="162" key="GridCell.Tab.1.right" timestamp="1602429382624">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="162" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1602429382624" />
+    <state x="517" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1602428906605">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="517" y="49" key="refactoring.ChangeSignatureDialog/0.0.1549.831@0.0.1549.831" timestamp="1602428906605" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1603625089844">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1603625089844" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

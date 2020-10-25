@@ -1,6 +1,6 @@
-package com.sky.algorithm.interview.simple.undo;
+package com.sky.algorithm.interview.simple.tree.util;
 
-public class Code_02_PrintBinaryTree {
+public class PrintBinaryTree {
 
 	public static class Node {
 		public int value;

@@ -1,6 +1,5 @@
 package com.sky.algorithm.interview.simple.tree;
 
-import com.sky.algorithm.interview.simple.undo.Code_01_PreInPosTraversal;
 
 /**
  * 二叉树前中后 遍历
