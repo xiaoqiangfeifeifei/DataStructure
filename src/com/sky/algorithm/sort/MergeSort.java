@@ -51,7 +51,7 @@ public class MergeSort {
 
         int t = 0;
 
-        while (i <= mid + 1 && j <= high) {
+        while (i <= mid && j <= high) {
             if (nums[i] >= nums[j]) {
                 temp[t++] = nums[i++];
             } else {
@@ -59,7 +59,7 @@ public class MergeSort {
             }
         }
 
-        while (i <= mid + 1) {// 比较完发现第一个数组还有剩余的元素， 放到temp中
+        while (i <= mid) {// 比较完发现第一个数组还有剩余的元素， 放到temp中
             CommonUtil.print("原始temp = %s, ");
             temp[t++] = nums[i++];
         }
