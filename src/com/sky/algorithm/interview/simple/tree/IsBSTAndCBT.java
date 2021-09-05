@@ -1,6 +1,5 @@
 package com.sky.algorithm.interview.simple.tree;
 
-import com.sky.algorithm.interview.simple.undo.Code_07_IsBSTAndCBT;
 
 import java.util.LinkedList;
 import java.util.Queue;

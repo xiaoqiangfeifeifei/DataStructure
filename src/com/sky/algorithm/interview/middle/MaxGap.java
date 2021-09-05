@@ -51,4 +51,12 @@ public class MaxGap {
         //返回的结果是第几个桶
         return (int) ((num - min) * len / (max - min));
     }
+
+    public static void main(String[] args) {
+        int[] arr = new int[]{3, 5, 7, 9, 10, 12, 20};
+        for (int i = 0; i < arr.length; i++) {
+            System.out.println(bucket(arr[i], 7, 3, 20));
+        }
+
+    }
 }
