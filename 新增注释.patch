@@ -1,0 +1,44 @@
+Index: src/com/sky/algorithm/interview/middle/MaxGap.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/sky/algorithm/interview/middle/MaxGap.java	(revision 726ffac78c8205a7ef28bb37b69724dadaf7f344)
++++ src/com/sky/algorithm/interview/middle/MaxGap.java	(date 1630833647095)
+@@ -51,4 +51,12 @@
+         //返回的结果是第几个桶
+         return (int) ((num - min) * len / (max - min));
+     }
++
++    public static void main(String[] args) {
++        int[] arr = new int[]{3, 5, 7, 9, 10, 12, 20};
++        for (int i = 0; i < arr.length; i++) {
++            System.out.println(bucket(arr[i], 7, 3, 20));
++        }
++
++    }
+ }
+Index: src/com/sky/algorithm/interview/simple/tree/IsBSTAndCBT.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/sky/algorithm/interview/simple/tree/IsBSTAndCBT.java	(revision 726ffac78c8205a7ef28bb37b69724dadaf7f344)
++++ src/com/sky/algorithm/interview/simple/tree/IsBSTAndCBT.java	(date 1630833474248)
+@@ -1,6 +1,5 @@
+ package com.sky.algorithm.interview.simple.tree;
+ 
+-import com.sky.algorithm.interview.simple.undo.Code_07_IsBSTAndCBT;
+ 
+ import java.util.LinkedList;
+ import java.util.Queue;
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .gitignore	(revision 726ffac78c8205a7ef28bb37b69724dadaf7f344)
++++ .gitignore	(date 1630833674619)
+@@ -1,1 +1,2 @@
+ /.idea/
++/out/
