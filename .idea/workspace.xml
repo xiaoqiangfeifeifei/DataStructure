@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/CompleteTreeNodeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/IsBSTAndCBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/IsBalanceTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/PreInPosTraversalWithNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/SerializeAndReconstructTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/SuccessorNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/util/PrintBinaryTree.java" afterDir="false" />
+    <list default="true" id="2da338d2-3701-4ecc-850c-cfe005492fd9" name="Default" comment="新增注释">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/tree/PreInPosTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/tree/PreInPosTraversal$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/tree/PreInPosTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/sky/algorithm/interview/simple/tree/PreInPosTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/PreInPosTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/algorithm/interview/simple/tree/PreInPosTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,27 +226,35 @@
       <workItem from="1603121699656" duration="267000" />
       <workItem from="1603122088261" duration="2720000" />
       <workItem from="1603622945899" duration="1316000" />
+      <workItem from="1630818615868" duration="1221000" />
     </task>
+    <task id="LOCAL-00001" summary="新增注释">
+      <created>1630818746635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630818746635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="新增注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增注释" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="439" y="14" key="CommitChangelistDialog2" timestamp="1630818719823">
+    <state x="439" y="14" key="CommitChangelistDialog2" timestamp="1630818744840">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="439" y="14" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1630818719823" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/sky/datastructure/stack/ArrayStack.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="439" y="14" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1630818744840" />
+    <state x="367" y="152" key="Vcs.Push.Dialog.v2" timestamp="1630818748452">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="152" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1630818748452" />
   </component>
 </project>

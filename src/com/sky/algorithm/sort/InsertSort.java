@@ -77,6 +77,11 @@ public class InsertSort {
     }
 
 
+    /**
+     * 插入扑克牌
+     * @param arr
+     * @return
+     */
     private static int[] doSort1(int[] arr) {
         if (arr == null) {
             return arr;
