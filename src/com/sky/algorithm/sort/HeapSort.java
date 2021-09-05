@@ -18,6 +18,13 @@ public class HeapSort {
         System.out.println(Arrays.toString(arr));
     }
 
+    /**
+     * 当前元素是i
+     * 父元素:  (i -1 )/2
+     * 左孩子： i * 2 + 1
+     * 右孩子： i * 2 + 2
+     * @param arr
+     */
     private static void doSort(int[] arr) {
         if (arr == null) {
             return;

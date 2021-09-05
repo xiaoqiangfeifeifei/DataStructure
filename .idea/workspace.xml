@@ -54,7 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/学习资料/左神初级算法/初级班代码ppt/基础班3、4节代码/新基础课第3、4节代码/class_04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -244,62 +244,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="78" key="#Auto_Import" timestamp="1602428255247">
+    <state x="439" y="14" key="CommitChangelistDialog2" timestamp="1630818719823">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="367" y="78" key="#Auto_Import/0.0.1549.831@0.0.1549.831" timestamp="1602428255247" />
-    <state x="580" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1603122197886">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="580" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1603122197886" />
-    <state x="557" y="306" width="434" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602345113908">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="557" y="306" width="434" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1549.831@0.0.1549.831" timestamp="1602345113908" />
-    <state x="555" y="174" key="FileChooserDialogImpl" timestamp="1603029971002">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1603029971002" />
-    <state width="1506" height="67" key="GridCell.Tab.0.bottom" timestamp="1603625076438">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="67" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1603625076438" />
-    <state width="1506" height="67" key="GridCell.Tab.0.center" timestamp="1603625076437">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="67" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1603625076437" />
-    <state width="1506" height="67" key="GridCell.Tab.0.left" timestamp="1603625076437">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="67" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1603625076437" />
-    <state width="1506" height="67" key="GridCell.Tab.0.right" timestamp="1603625076438">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="67" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1603625076438" />
-    <state width="1506" height="162" key="GridCell.Tab.1.bottom" timestamp="1602429382624">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="162" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1602429382624" />
-    <state width="1506" height="162" key="GridCell.Tab.1.center" timestamp="1602429382624">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="162" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1602429382624" />
-    <state width="1506" height="162" key="GridCell.Tab.1.left" timestamp="1602429382624">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="162" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1602429382624" />
-    <state width="1506" height="162" key="GridCell.Tab.1.right" timestamp="1602429382624">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="162" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1602429382624" />
-    <state x="517" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1602428906605">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="517" y="49" key="refactoring.ChangeSignatureDialog/0.0.1549.831@0.0.1549.831" timestamp="1602428906605" />
-    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1603625089844">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1603625089844" />
+    <state x="439" y="14" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1630818719823" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
